@@ -1,6 +1,6 @@
 # for nav cmzl
 boto3
-numpy
+numpy>=1.0.0,<2.0.0
 pandas
 
 # for 3d tile pointcloud
